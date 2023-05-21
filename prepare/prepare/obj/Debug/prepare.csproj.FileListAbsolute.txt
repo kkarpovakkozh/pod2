@@ -1,0 +1,13 @@
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\bin\Debug\prepare.exe.config
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\bin\Debug\prepare.exe
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\bin\Debug\prepare.pdb
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.csproj.AssemblyReference.cache
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.csproj.SuggestedBindingRedirects.cache
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.organizator.resources
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.Properties.Resources.resources
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.uchastnik.resources
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.csproj.GenerateResource.cache
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.csproj.CoreCompileInputs.cache
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.exe
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.pdb
+D:\aanastasiiakk\Desktop\подготовка\prepare\prepare\obj\Debug\prepare.avtorizacia.resources
